@@ -45,5 +45,13 @@ The main function that orchestrates the updating of the webpage when the script 
 - Calls `generateNewSelect` to create a new select element.
 - Hides original select elements and updates the DOM with new elements.
 
+### Screenshots
+Before :
+![image](https://github.com/archthinos/ShoptetVariantsMerge/assets/27582579/b0c18597-0f24-438e-9d6a-d8f7ac6df4bc)
+
+After : 
+![image](https://github.com/archthinos/ShoptetVariantsMerge/assets/27582579/abc6ccf2-e051-46b1-a511-917014303388)
+
+
 ## Conclusion
 This script is a comprehensive solution for managing product variants in a web application. Each function is designed to perform specific tasks efficiently, ensuring a smooth user experience while interacting with product variants. The script is an example of how complex functionalities can be managed through well-structured and clean JavaScript code.
